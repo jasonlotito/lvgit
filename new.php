@@ -1,3 +1,3 @@
 <?php
 
-echo "This is a new file.php";
+echo "This is not a new file.php";
